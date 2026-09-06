@@ -1,0 +1,33 @@
+﻿# Compiled binaries
+dist/**
+
+# Build artifacts
+*.elf
+*.o
+*.bin
+*.dat
+
+# Backup files
+*.bak
+
+# IDE / editor folders
+.vscode/
+.idea/
+*sublime-workspace
+
+# Flipper app binary
+*.fap
+
+# Screenshots (optional)
+screenshots/
+
+# Publishing docs
+publish/
+
+# OS temp files
+.DS_Store
+Thumbs.db
+
+# Local config
+application.fam.local
+
