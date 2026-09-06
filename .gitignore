@@ -19,7 +19,7 @@ dist/**
 *.fap
 
 # Screenshots (optional)
-screenshots/
+# screenshots/
 
 # Publishing docs
 publish/
