@@ -1,0 +1,12 @@
+App(
+    appid="quickwriting_kbd",
+    name="QuickWriting Keyboard",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="quickwriting_kbd_app",
+    fap_icon="quickwriting_keyboard.png",
+    fap_version="1.0",
+    fap_author="amrok",
+    fap_description="QuickWriting-based keyboard for Flipper Zero using D-Pad with diagonal detection",
+    fap_category="Tools",
+    fap_weburl="",
+)
