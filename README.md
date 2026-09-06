@@ -4,7 +4,7 @@ A proof-of-concept text input application for Flipper Zero inspired by **Ken Per
 
 This project serves as a tribute to continuous stylus-based text entry methods and explores their adaptation to constrained embedded devices with D-Pad-only interfaces.
 
-![](https://mrl.cs.nyu.edu/~perlin/demos/template2_0_small.gif
+![](https://mrl.cs.nyu.edu/~perlin/demos/template2_0_small.gif)
 
 ---
 
