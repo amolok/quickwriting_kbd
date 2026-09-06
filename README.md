@@ -4,7 +4,7 @@ A proof-of-concept text input application for Flipper Zero inspired by **Ken Per
 
 This project serves as a tribute to continuous stylus-based text entry methods and explores their adaptation to constrained embedded devices with D-Pad-only interfaces.
 
-![[https://mrl.cs.nyu.edu/~perlin/demos/template2_0_small.gif]]
+![](https://mrl.cs.nyu.edu/~perlin/demos/template2_0_small.gif
 
 ---
 
@@ -16,9 +16,9 @@ The screen is divided into a **3×3 zone grid**. A text line at the bottom displ
 
 This mirrors Quikwriting's continuous input model on a D-Pad interface.
 
-![[screenshots/Screenshot-20260824-184222.png]]
-![[screenshots/Screenshot-20260824-184310.png]]
-![[screenshots/Screenshot-20260824-184450.png]]
+![](screenshots/Screenshot-20260824-184222.png)
+![](screenshots/Screenshot-20260824-184310.png)
+![](screenshots/Screenshot-20260824-184450.png)
 
 For further reading, explore related predictive input methods like **Dasher**: https://dasher.tbrt.net/
 
@@ -94,6 +94,6 @@ MIT — original Quikwriting by Ken Perlin (NYU Media Research Lab).
 
 Original research: [Quikwriting](https://mrl.cs.nyu.edu/projects/quikwriting/).  
 
-![[screenshots/Screenshot-20260824-185410.png]]
+![](screenshots/Screenshot-20260824-185410.png)
 
 *(Note: punctuation marks have been added for readability where absent in the original.)*
